@@ -1,0 +1,9 @@
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csprojAssemblyReference.cache
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.cache
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\devin\School\CS 233N\Lab 1\Array Exercises and Tutorials\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
